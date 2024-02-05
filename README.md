@@ -1,1 +1,6 @@
-# assr_project
+# ASSR_project
+
+Everything for the analysis of the ASSR project.
+Everything to analyzed how prospective heading influences allocation of spatial attention using auditory entrainment strength as indicator.
+
+The present study aims at measuring the spatial distribution of attention with respect to the future path of participants while walking. The experimental design is based on the work of Chen et al. (2023) recording electroencephalography (EEG) while human participants walked a predefined path. In their experiment, participants were asked to follow a path in the shape of a figure eight indicated by arrows on the floor. While moving, they were presented with auditory stimuli modulated at 39 Hz and 41 Hz presented via headphones to the left and right ear, respecively. The continuously presented auditory stimuli elicits an auditory steady state response (ASSR) originating from the auditory nerve, fluctuating in the specific frequency the tone is presented to each ear. Importantly, the specific ASSR amplitude can be modulated by selective, spatial attention (i.e., the amplitude of the ASSR of a specific frequency increases when attention is directed to the respective hemisphere). Thus, when moving through space, the frequency-specific ASSR will be modulated by attention directed to one or the other side of the trajectory.

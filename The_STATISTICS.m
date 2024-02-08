@@ -77,7 +77,8 @@ for isub = 1:length(goodSubs)
         %% figures?
 
         if figures == 'yes'
-            ASSR_LI_plot
+            ASSR_LI_plot_noVR
+            ASSR_LI_plot_VR
         end
 
         %% statistics noVR?
